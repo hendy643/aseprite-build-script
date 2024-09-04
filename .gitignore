@@ -1,1 +1,9 @@
 .DS_Store
+*.zip
+*.tar.gz
+skia/
+aseprite/
+dist/
+tmp/
+deps/*.7z
+.vscode/
