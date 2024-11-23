@@ -10,7 +10,7 @@ SETLOCAL EnableDelayedExpansion
 :: versions
 
 set SDK_VER=10.0.22621.0
-set ASE_VER=v1.3.8.1
+set ASE_VER=v1.3.10.1
 set SKIA_VER=m102-861e4743af
 
 :: Paths
